@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Framework/Framework.csproj": {}
+  },
+  "projects": {
+    "/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Framework/Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Framework/Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Framework/Framework.csproj",
+        "packagesPath": "/Users/liuyide/.nuget/packages/",
+        "outputPath": "/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Framework/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/liuyide/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

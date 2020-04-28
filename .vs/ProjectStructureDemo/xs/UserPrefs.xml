@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{B867ACDA-8298-4105-AA62-C6E505B9BB8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Startup.cs">
+    <Files>
+      <File FileName="WebApi/Startup.cs" Line="23" Column="1" />
+      <File FileName="WebApi/Program.cs" />
+      <File FileName="WebApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="Entities/User.cs" />
+      <File FileName="WebApi/Extensions/GuidExtentions.cs" Line="23" Column="1" />
+      <File FileName="WebApi/WeatherForecast.cs" />
+      <File FileName="Entities/Core/Page.cs" />
+      <File FileName="Services/BaseServices.cs" />
+      <File FileName="Repository/RepositoryBase.cs" />
+      <File FileName="WebApi/Base/ApiBaseController.cs" />
+      <File FileName="IServices/IUserService.cs" />
+      <File FileName="IRepository/IUserRepository.cs" />
+      <File FileName="IRepository/IRepositoryBase.cs" />
+      <File FileName="Services/UserService.cs" />
+      <File FileName="IServices/IBaseServices.cs" />
+      <File FileName="WebApi/Extensions/ServicesExtensions.cs" Line="19" Column="61" />
+      <File FileName="Repository/UserRepository.cs" />
+      <File FileName="WebApi/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectStructureDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
