@@ -1,8 +1,0 @@
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/bin/Debug/netstandard2.1/ProjectStructureDemo.Entities.deps.json
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/bin/Debug/netstandard2.1/ProjectStructureDemo.Entities.dll
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/bin/Debug/netstandard2.1/ProjectStructureDemo.Entities.pdb
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/obj/Debug/netstandard2.1/ProjectStructureDemo.Entities.csproj.CoreCompileInputs.cache
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/obj/Debug/netstandard2.1/ProjectStructureDemo.Entities.AssemblyInfoInputs.cache
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/obj/Debug/netstandard2.1/ProjectStructureDemo.Entities.AssemblyInfo.cs
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/obj/Debug/netstandard2.1/ProjectStructureDemo.Entities.dll
-/Users/liuyide/Documents/Excises/DotNetTest/ProjectStructureDemo/Entities/obj/Debug/netstandard2.1/ProjectStructureDemo.Entities.pdb
